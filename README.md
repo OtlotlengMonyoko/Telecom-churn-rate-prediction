@@ -25,7 +25,7 @@ Open the notebook in Jupyter.
 Run the cells in the notebook in order to load and preprocess the data, train machine learning models, and evaluate their performance.
 View the visualizations and results to interpret the model performance.
 Results
-The machine learning models were trained and evaluated on the telecom churn dataset, achieving an accuracy of [accuracy score] on the test set. [Provide additional relevant results or visualizations here.]
+The machine learning models were trained and evaluated on the telecom churn dataset, achieving an accuracy of 81% on the test set and precision score of 76%.
 
 # Contact
 If you have any questions or feedback about this project, please contact otlotlengmonyokoo@yahoo.com.
