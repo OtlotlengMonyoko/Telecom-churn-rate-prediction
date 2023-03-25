@@ -8,9 +8,13 @@ The dataset used for this project was obtained from [source name]. It contains [
 To run this notebook, you will need to have the following Python libraries installed:
 
 pandas
+
 numpy
+
 scikit-learn
+
 matplotlib
+
 seaborn
 Usage
 To use this notebook, follow these steps:
